@@ -21,9 +21,10 @@ A simple **Tic-Tac-Toe engine** implemented in TypeScript with **3 difficulty le
 ---
 
 ## File Structure / 文件结构
+```
 ├── main.ts # Entry point / 入口文件
 ├── ttt-ai.ts # AI logic / AI 核心逻辑
-
+```
 
 ---
 
