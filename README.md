@@ -28,6 +28,14 @@ A simple **Tic-Tac-Toe engine** implemented in TypeScript with **3 difficulty le
 
 ---
 
+## Screenshots
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/46876f17-2c4d-4b3e-944c-01c77b44c162" width="60%" alt="Tic Tac Toe Screenshot">
+</p>
+
+---
+
 ## How to Run
 ```bash
 # 1. Clone the repo / 克隆仓库
